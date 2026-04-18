@@ -1,0 +1,9 @@
+[
+  {
+    "Nom": "PLA Rouge",
+    "Quantite": 500,
+    "Unite": "g",
+    "Statut": "ok",
+    "Couleur_hex": "#ff0000"
+  }
+]
