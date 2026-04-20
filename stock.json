@@ -1,9 +1,30 @@
 [
   {
-    "Nom": "PLA Rouge",
-    "Quantite": 500,
+    "Nom": "PLA Vert clair",
+    "Quantite": 1000,
     "Unite": "g",
     "Statut": "ok",
-    "Couleur_hex": "#ff0000"
+    "Couleur_hex": "#90EE90"
+  },
+  {
+    "Nom": "PLA Violet",
+    "Quantite": 1000,
+    "Unite": "g",
+    "Statut": "ok",
+    "Couleur_hex": "#800080"
+  },
+  {
+    "Nom": "PLA Orange",
+    "Quantite": 1000,
+    "Unite": "g",
+    "Statut": "ok",
+    "Couleur_hex": "#FFA500"
+  },
+  {
+    "Nom": "PLA Bleu",
+    "Quantite": 1000,
+    "Unite": "g",
+    "Statut": "ok",
+    "Couleur_hex": "#0000FF"
   }
 ]
